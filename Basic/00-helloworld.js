@@ -18,8 +18,7 @@ console.log("¡Hola, JavaScript!")
 console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
 
-console.los ("Creo que no estoy entendiendo bien aun")
-console.log("Yale enendi?")
+console.log("Vamos por la ultima version")
 
 // console.log("¡Hola, JavaScript!")
 
